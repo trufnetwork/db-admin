@@ -6,7 +6,7 @@ import { useAppDispatch } from "@/store/hooks"
 import { setIsMenuOpen } from "@/store/global"
 import useDatabaseParams from "@/hooks/database/use-database-params"
 import { IItemTypes } from "./DatabaseItem"
-import { Procedure } from "@kwilteam/kwil-js/dist/core/database"
+import { Procedure } from "@trufnetwork/kwil-js/dist/core/database"
 
 interface ITablesActionsList {
   dbid: string

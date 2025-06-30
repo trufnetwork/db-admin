@@ -6,7 +6,7 @@ function useCodeSnippets(providerEndpoint: string, chainId: string) {
     () => ({
       nodeSetup: `
   const { Wallet } = require('ethers');
-const kwiljs = require('@kwilteam/kwil-js');
+const kwiljs = require('@trufnetwork/kwil-js');
   
 const wallet = new Wallet("MY_PRIVATE_KEY");
 
@@ -22,7 +22,7 @@ const kwil = new kwiljs.NodeKwil({
       `.trim(),
       webSetup: `
   import { BrowserProvider } from 'ethers';
-import { WebKwil, KwilSigner } from '@kwilteam/kwil-js';
+import { WebKwil, KwilSigner } from '@trufnetwork/kwil-js';
   
 // to be used for funding and signing transactions
 const provider = new BrowserProvider(window.ethereum)
