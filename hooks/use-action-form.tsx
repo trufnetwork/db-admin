@@ -1,5 +1,5 @@
 import { IActionInfo } from "@/utils/database-types"
-import { ActionSchema, NamedType, Procedure } from "@kwilteam/kwil-js/dist/core/database"
+import { ActionSchema, NamedType, Procedure } from "@trufnetwork/kwil-js/dist/core/database"
 import { useCallback, useEffect, useMemo, useState } from "react"
 
 interface IUseActionFormProps {

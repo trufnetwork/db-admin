@@ -7,8 +7,8 @@ import { IActionInfo, ItemType, KwilTypes } from "@/utils/database-types"
 import { ModalEnum, setAlert, setModal } from "@/store/global"
 import { getDetailsErrorMessage } from "@/utils/error-message"
 import { IColumn, cleanInputs, getColumnsFromProcedure } from "@/utils/data-table"
-import { NamedParams } from "@kwilteam/kwil-js/dist/core/action"
-import { MsgReceipt } from "@kwilteam/kwil-js/dist/core/message"
+import { NamedParams } from "@trufnetwork/kwil-js/dist/core/action"
+import { MsgReceipt } from "@trufnetwork/kwil-js/dist/core/message"
 
 interface IDatabaseMethodProps {
   dbid: string

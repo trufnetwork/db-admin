@@ -7,7 +7,7 @@ import {
   createContext,
   useContext,
 } from "react"
-import { WebKwil } from "@kwilteam/kwil-js"
+import { WebKwil } from "@trufnetwork/kwil-js"
 import { useAppDispatch, useAppSelector } from "@/store/hooks"
 import {
   KwilProviderStatus,

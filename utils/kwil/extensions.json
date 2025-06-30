@@ -9,7 +9,7 @@
     "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus temporibus quia, quibusdam molestiae voluptatum atque alias.",
     "installation": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus temporibus quia, quibusdam molestiae voluptatum atque alias.",
     "readme": "This is a readme",
-    "gitUrl": "https://github.com/kwilteam/kwil-js",
+    "gitUrl": "https://github.com/trufnetwork/kwil-js",
     "dockerUrl": "https://hub.docker.com/r/kwildb/kwil"
   },
   {
@@ -21,7 +21,7 @@
     "image": "/images/kwil.png",
     "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus temporibus quia, quibusdam molestiae voluptatum atque alias.Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus temporibus quia, quibusdam molestiae voluptatum atque alias.Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus temporibus quia, quibusdam molestiae voluptatum atque alias.Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus temporibus quia, quibusdam molestiae voluptatum atque alias.Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus temporibus quia, quibusdam molestiae voluptatum atque alias.",
     "readme": "This is a readme",
-    "gitUrl": "https://github.com/kwilteam/kwil-js",
+    "gitUrl": "https://github.com/trufnetwork/kwil-js",
     "dockerUrl": "https://hub.docker.com/r/kwildb/kwil"
   },
   {
@@ -33,7 +33,7 @@
     "image": "/images/kwil.png",
     "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus temporibus quia, quibusdam molestiae voluptatum atque alias.",
     "readme": "This is a readme",
-    "gitUrl": "https://github.com/kwilteam/kwil-js",
+    "gitUrl": "https://github.com/trufnetwork/kwil-js",
     "dockerUrl": "https://hub.docker.com/r/kwildb/kwil"
   },
   {
@@ -45,7 +45,7 @@
     "image": "/images/kwil.png",
     "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus temporibus quia, quibusdam molestiae voluptatum atque alias.",
     "readme": "This is a readme",
-    "gitUrl": "https://github.com/kwilteam/kwil-js",
+    "gitUrl": "https://github.com/trufnetwork/kwil-js",
     "dockerUrl": "https://hub.docker.com/r/kwildb/kwil"
   },
   {
@@ -57,7 +57,7 @@
     "image": "/images/kwil.png",
     "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus temporibus quia, quibusdam molestiae voluptatum atque alias.",
     "readme": "This is a readme",
-    "gitUrl": "https://github.com/kwilteam/kwil-js",
+    "gitUrl": "https://github.com/trufnetwork/kwil-js",
     "dockerUrl": "https://hub.docker.com/r/kwildb/kwil"
   }
 ]
