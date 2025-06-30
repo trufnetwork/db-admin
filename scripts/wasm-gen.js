@@ -3,7 +3,7 @@ import path from 'path'
 import decompress from 'decompress'
 
 // Download the Kuneiform WebAssembly binary from the GitHub release
-const kfPath = "https://github.com/trufnetwork/kuneiform/releases/download/v0.6.1/kuneiform_wasm.tar.gz"
+// const kfPath = "https://github.com/kwilteam/kuneiform/releases/download/v0.6.1/kuneiform_wasm.tar.gz"
 const outputDir = path.join(process.cwd(), 'tmp');
 const outputTsFilePath = path.join(process.cwd(), 'wasm', 'wasmString.ts')
 const wasmFileName = './wasm/kuneiform.wasm'
