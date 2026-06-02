@@ -23,7 +23,7 @@ export default function JsSdkConnect({
   const [environment, setEnvironment] = useState<"web" | "node">("web")
   const { nodeSetup, webSetup, ping, createTable, insert } = useCodeSnippets(providerEndpoint, chain?.chain_id)
   const { nodeInfo, webInfo } = useJsSetupInfo();
-  const installCode = "npm install @kwilteam/kwil-js"
+  const installCode = "npm install @trufnetwork/kwil-js"
 
   if (!docsUrl) {
     console.error("NEXT_PUBLIC_KWIL_JS_SDK_DOCS_URL is not set")

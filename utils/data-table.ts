@@ -1,6 +1,6 @@
-import { Column, ProcedureReturn, Table } from "@kwilteam/kwil-js/dist/core/database";
+import { Column, ProcedureReturn, Table } from "@trufnetwork/kwil-js/dist/core/database";
 import { ITableInfo } from "./database-types";
-import { ValueType } from "@kwilteam/kwil-js/dist/utils/types";
+import { ValueType } from "@trufnetwork/kwil-js/dist/utils/types";
 
 export interface IColumn {
     name: string

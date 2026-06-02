@@ -9,7 +9,7 @@ import { useKwilProvider } from "@/providers/WebKwilProvider"
 import { usePathname } from "next/navigation"
 import { formatEther } from "ethers"
 import { getAddress } from "@/utils/wallet"
-import { hexToBytes } from "@kwilteam/kwil-js/dist/utils/serial"
+import { hexToBytes } from "@trufnetwork/kwil-js/dist/utils/serial"
 
 interface IUserInfoProps extends React.HTMLAttributes<HTMLDivElement> {
   activeAccount: string | undefined
